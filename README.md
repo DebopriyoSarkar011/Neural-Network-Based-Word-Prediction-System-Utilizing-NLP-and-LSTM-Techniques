@@ -1,1 +1,2 @@
 # Neural-Network-Based-Word-Prediction-System-Utilizing-NLP-and-LSTM-Techniques
+The Neural Network-Based Word Prediction System leverages Natural Language Processing (NLP) and Long Short-Term Memory (LSTM) techniques to enhance text input efficiency. By analyzing context and predicting subsequent words, the system improves user experience in applications like messaging and writing, enabling faster and more intuitive communication.
